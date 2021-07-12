@@ -41,6 +41,8 @@ public class Test10 {
 		System.out.println("output : " + result);
 		
 		//Github 사용하기
+		//Code 추가
 		
+		//새로운 코드 추가
 	}
 }
