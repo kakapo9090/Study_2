@@ -39,5 +39,8 @@ public class Test10 {
 		result = num%4 + ((num/4)*10);
 		System.out.println("input : " + num);
 		System.out.println("output : " + result);
+		
+		//Github 사용하기
+		
 	}
 }
