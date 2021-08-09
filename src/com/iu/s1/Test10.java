@@ -40,6 +40,8 @@ public class Test10 {
 		System.out.println("input : " + num);
 		System.out.println("output : " + result);
 		
+		//나머지 연산자는 일의 자리수, 목 연산자는 십의 자리수
+		
 		//Github 사용하기
 		//Code 추가
 		
